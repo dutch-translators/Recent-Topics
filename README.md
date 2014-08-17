@@ -1,7 +1,7 @@
 Recent-Topics
 =============
 
-Recent Topics for phpBB3.1 by Paybas versie 2.0.2
+Dutch translation of the Recent Topics extension by Paybas version 2.0.2
 
 Installation
 ============
